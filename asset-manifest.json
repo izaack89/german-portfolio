@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/german-portfolio/static/css/main.e2c74db1.chunk.css",
+    "main.js": "/german-portfolio/static/js/main.2efb4812.chunk.js",
+    "main.js.map": "/german-portfolio/static/js/main.2efb4812.chunk.js.map",
+    "runtime-main.js": "/german-portfolio/static/js/runtime-main.894e8c41.js",
+    "runtime-main.js.map": "/german-portfolio/static/js/runtime-main.894e8c41.js.map",
+    "static/js/2.6f4e4ddd.chunk.js": "/german-portfolio/static/js/2.6f4e4ddd.chunk.js",
+    "static/js/2.6f4e4ddd.chunk.js.map": "/german-portfolio/static/js/2.6f4e4ddd.chunk.js.map",
+    "index.html": "/german-portfolio/index.html",
+    "service-worker.js": "/german-portfolio/service-worker.js",
+    "service-worker.js.map": "/german-portfolio/service-worker.js.map",
+    "static/css/main.e2c74db1.chunk.css.map": "/german-portfolio/static/css/main.e2c74db1.chunk.css.map",
+    "static/js/2.6f4e4ddd.chunk.js.LICENSE.txt": "/german-portfolio/static/js/2.6f4e4ddd.chunk.js.LICENSE.txt",
+    "static/media/back-end.svg": "/german-portfolio/static/media/back-end.733fd5ae.svg",
+    "static/media/code-base.png": "/german-portfolio/static/media/code-base.3fa65e87.png",
+    "static/media/customer_satisfaction.svg": "/german-portfolio/static/media/customer_satisfaction.31b7fef6.svg",
+    "static/media/day-planner.png": "/german-portfolio/static/media/day-planner.e8321002.png",
+    "static/media/db.svg": "/german-portfolio/static/media/db.f24165d6.svg",
+    "static/media/front-end.svg": "/german-portfolio/static/media/front-end.30e96572.svg",
+    "static/media/game-day.eaee85f2.svg": "/german-portfolio/static/media/game-day.eaee85f2.svg",
+    "static/media/learn.cfca2a2c.svg": "/german-portfolio/static/media/learn.cfca2a2c.svg",
+    "static/media/manga.c1a52590.svg": "/german-portfolio/static/media/manga.c1a52590.svg",
+    "static/media/other.svg": "/german-portfolio/static/media/other.2fa2079c.svg",
+    "static/media/pata-de-perro.png": "/german-portfolio/static/media/pata-de-perro.fd1eb210.png",
+    "static/media/redux-store.png": "/german-portfolio/static/media/redux-store.0eedbe1d.png",
+    "static/media/school-system.png": "/german-portfolio/static/media/school-system.37079cd2.png",
+    "static/media/sport-almanac.png": "/german-portfolio/static/media/sport-almanac.773787c0.png",
+    "static/media/svg-1.svg": "/german-portfolio/static/media/svg-1.672f6488.svg",
+    "static/media/svg-2.svg": "/german-portfolio/static/media/svg-2.cfbde9b7.svg",
+    "static/media/tech-blog.png": "/german-portfolio/static/media/tech-blog.369920ec.png",
+    "static/media/testing.svg": "/german-portfolio/static/media/testing.d195b87b.svg",
+    "static/media/version-control.svg": "/german-portfolio/static/media/version-control.5e222e0e.svg",
+    "static/media/video2.321fe793.mp4": "/german-portfolio/static/media/video2.321fe793.mp4",
+    "static/media/weather-system.png": "/german-portfolio/static/media/weather-system.e0ff4a37.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.894e8c41.js",
+    "static/js/2.6f4e4ddd.chunk.js",
+    "static/css/main.e2c74db1.chunk.css",
+    "static/js/main.2efb4812.chunk.js"
+  ]
+}
