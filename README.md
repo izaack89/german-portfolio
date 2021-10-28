@@ -1,0 +1,2 @@
+# german-portfolio
+Full Stack developer with 12+ years of experience that has operated on the execution of websites and software platforms that have consolidated improvements on the process of the clients. Earned a certificate in Full Stack Web Development from the Instituto Tecnologico de Monterrey Coding Boot Camp. Innovative and problem-solver who is passionate about developing apps and websites with a focus on client needs first.
