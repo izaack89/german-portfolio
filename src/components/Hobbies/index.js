@@ -13,17 +13,17 @@ const Hobbies = () => {
                     <HobbiesCard>
                         <HobbiesIcon src={Icon1}/>
                         <HobbiesH2>Sports</HobbiesH2>
-                        <HobbiesP>I like to watch the NFL games and since 2000 I'm Patriots fan also I like to watch the soccer games from México and I support the America Club.</HobbiesP>
+                        <HobbiesP>I like to watch the NFL games and since 2000 I'm a Patriot's fan, also I watch Mexico's soccer games (America Club's fan).</HobbiesP>
                     </HobbiesCard>
                     <HobbiesCard>
                         <HobbiesIcon src={Icon2}/>
                         <HobbiesH2>Manga/Anime</HobbiesH2>
-                        <HobbiesP>I'm big fan of the japanise culture so I started to read manga and then I started to watch their animes , is somerhing that I enjoy doing on the weekend when the new episodes are out.</HobbiesP>
+                        <HobbiesP>I'm big fan of the japanise culture so I started to read manga and watch anime, it's something I enjoy doing on weekends when new episodes are released.</HobbiesP>
                     </HobbiesCard>
                     <HobbiesCard>
                         <HobbiesIcon src={Icon3}/>
                         <HobbiesH2>Learn</HobbiesH2>
-                        <HobbiesP>Most of the language that I have learned has been by my own desicion cause I like to be updated on the new technologies and languages.</HobbiesP>
+                        <HobbiesP>The languages I have learned have been by my own decision, because I like to be updated on new technologies and languages.</HobbiesP>
                     </HobbiesCard>
                 </HobbiesWrapper>
             </HobbiesContainer>   
