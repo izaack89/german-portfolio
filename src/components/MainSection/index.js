@@ -12,7 +12,7 @@ const MainSection = () => {
             <MainContent>
                 <MainH1>Welcome to my Portfolio</MainH1>
                 <MainP>
-                    "I help smart business owners to develop their scalable, progressive and powerful applications that reflects the values they offer to their clients"
+                    "I help smart business owners to develop their scalable, progressive and powerful applications that reflects their value to the clients."
                 </MainP>
             </MainContent>
         </MainContainer>
