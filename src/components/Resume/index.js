@@ -9,7 +9,7 @@ const ResumeSection = () => {
         <ResumeMainContainer id="resume">                   
             <ResumeH1>Resume</ResumeH1>
             <ResumeH4>
-                <ResumeDownloadLink href="/portfolio-react/assets/pdf/CV-German_Isaac_Ramirez.pdf" target="_blank" aria-label="StackOverflow">
+                <ResumeDownloadLink href="https://rcconsultingmx.com/bootcamp/career_service/CV-German_I_Ramirez_Castanon.pdf" target="_blank" aria-label="StackOverflow">
                     Download my resume <FaFilePdf/>
                 </ResumeDownloadLink>                 
             </ResumeH4>
